@@ -18,5 +18,5 @@ Após a estrutura e estilização estarem prontas, foi utilizado JavaScript para
 
 ### Como executar o projeto:
 
-1.  Clone este repositório: `git clone https://github.com/RobertCastro86/gerador-de-conselhos.git`
+1.  Clone este repositório: `https://github.com/RobertCastro86/page-choran/tree/main`
 2.  Abra o arquivo `index.html` em seu navegador.
