@@ -6,6 +6,11 @@ Este projeto consiste na criação de uma landing page concisa, com o objetivo d
 
 Nesta etapa, o foco foi a criação da estrutura do aplicativo utilizando HTML e a estilização da interface com CSS. O objetivo era criar um layout responsivo e visualmente agradável, que se adaptasse a diferentes tamanhos de tela e dispositivos. 
 
+### Etapa 2: Interatividade e Funcionalidades Dinâmicas (JavaScript):
+
+O código JavaScript fornecido é apenas um exemplo básico para demonstrar a coleta de dados do formulário. Você precisará adaptá-lo para atender às suas necessidades específicas de envio de dados.
+
+
 ### Tecnologias Utilizadas:
 
 *   **HTML:** Linguagem de marcação para estruturar o conteúdo do aplicativo.
@@ -15,4 +20,4 @@ Nesta etapa, o foco foi a criação da estrutura do aplicativo utilizando HTML e
 ### Como executar o projeto:
 
 1.  Clone este repositório: `https://github.com/RobertCastro86/page-choran/tree/main`
-2.  Abra o arquivo `index.html` em seu navegador.
+2.  Abra o arquivo `https://page-choran.vercel.app/` em seu navegador.
